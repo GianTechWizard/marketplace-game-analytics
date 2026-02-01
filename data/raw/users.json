@@ -1,0 +1,162 @@
+[
+  {
+    "user_id": "U001",
+    "username": "robert93",
+    "email": "michellewilliams@example.com",
+    "country": "Indonesia",
+    "created_at": "2026-01-10T19:57:31",
+    "is_active": true
+  },
+  {
+    "user_id": "U002",
+    "username": "lindawilson",
+    "email": "thomaslawrence@example.org",
+    "country": "Indonesia",
+    "created_at": "2026-01-10T04:58:20",
+    "is_active": true
+  },
+  {
+    "user_id": "U003",
+    "username": "robertsonbryan",
+    "email": "erinweaver@example.org",
+    "country": "Singapore",
+    "created_at": "2026-01-30T01:05:44",
+    "is_active": true
+  },
+  {
+    "user_id": "U004",
+    "username": "john27",
+    "email": "brendamartin@example.net",
+    "country": "Indonesia",
+    "created_at": "2026-01-07T02:34:26",
+    "is_active": true
+  },
+  {
+    "user_id": "U005",
+    "username": "anthonyellis",
+    "email": "crowe@example.com",
+    "country": "Malaysia",
+    "created_at": "2026-01-19T19:46:27",
+    "is_active": true
+  },
+  {
+    "user_id": "U006",
+    "username": "jennifer62",
+    "email": "molinastephanie@example.org",
+    "country": "Singapore",
+    "created_at": "2026-01-03T17:09:46",
+    "is_active": true
+  },
+  {
+    "user_id": "U007",
+    "username": "millerjohn",
+    "email": "karen19@example.com",
+    "country": "Indonesia",
+    "created_at": "2026-01-11T13:51:28",
+    "is_active": true
+  },
+  {
+    "user_id": "U008",
+    "username": "oberry",
+    "email": "ricekrista@example.org",
+    "country": "Singapore",
+    "created_at": "2026-01-16T20:56:13",
+    "is_active": true
+  },
+  {
+    "user_id": "U009",
+    "username": "bakerchristopher",
+    "email": "hbryant@example.com",
+    "country": "Singapore",
+    "created_at": "2026-01-07T08:22:30",
+    "is_active": true
+  },
+  {
+    "user_id": "U010",
+    "username": "jeffery04",
+    "email": "ymayo@example.org",
+    "country": "Indonesia",
+    "created_at": "2026-01-19T17:30:59",
+    "is_active": true
+  },
+  {
+    "user_id": "U011",
+    "username": "david72",
+    "email": "wilkinsonrobert@example.net",
+    "country": "Indonesia",
+    "created_at": "2026-02-01T05:48:11",
+    "is_active": true
+  },
+  {
+    "user_id": "U012",
+    "username": "jasonhansen",
+    "email": "bmolina@example.org",
+    "country": "Malaysia",
+    "created_at": "2026-01-19T12:44:59",
+    "is_active": true
+  },
+  {
+    "user_id": "U013",
+    "username": "robert12",
+    "email": "burgesskaylee@example.net",
+    "country": "Malaysia",
+    "created_at": "2026-01-25T08:03:52",
+    "is_active": true
+  },
+  {
+    "user_id": "U014",
+    "username": "anitafoster",
+    "email": "christine60@example.net",
+    "country": "Singapore",
+    "created_at": "2026-01-10T04:48:38",
+    "is_active": true
+  },
+  {
+    "user_id": "U015",
+    "username": "rwheeler",
+    "email": "donaldparker@example.net",
+    "country": "Indonesia",
+    "created_at": "2026-01-24T21:18:59",
+    "is_active": true
+  },
+  {
+    "user_id": "U016",
+    "username": "vcurtis",
+    "email": "rwarren@example.com",
+    "country": "Singapore",
+    "created_at": "2026-01-01T08:00:28",
+    "is_active": true
+  },
+  {
+    "user_id": "U017",
+    "username": "garrisonjessica",
+    "email": "cookdaryl@example.com",
+    "country": "Singapore",
+    "created_at": "2026-01-13T15:05:21",
+    "is_active": true
+  },
+  {
+    "user_id": "U018",
+    "username": "stephanielane",
+    "email": "wrobertson@example.com",
+    "country": "Singapore",
+    "created_at": "2026-01-19T18:54:37",
+    "is_active": true
+  },
+  {
+    "user_id": "U019",
+    "username": "ghall",
+    "email": "anthonybrown@example.com",
+    "country": "Singapore",
+    "created_at": "2026-01-06T04:03:38",
+    "is_active": true
+  },
+  {
+    "user_id": "U020",
+    "username": "christina11",
+    "email": "lwilliams@example.org",
+    "country": "Malaysia",
+    "created_at": "2026-01-09T01:59:14",
+    "is_active": true
+  }
+]

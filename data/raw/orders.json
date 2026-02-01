@@ -1,0 +1,702 @@
+[
+  {
+    "order_id": "O0001",
+    "user_id": "U010",
+    "order_date": "2025-01-09T14:35:34",
+    "items": [
+      {
+        "game_id": "G007",
+        "quantity": 1,
+        "price": 281537
+      }
+    ],
+    "order_status": "COMPLETED",
+    "created_at": "2025-01-09T14:35:34"
+  },
+  {
+    "order_id": "O0002",
+    "user_id": "U014",
+    "order_date": "2025-01-09T22:42:48",
+    "items": [
+      {
+        "game_id": "G007",
+        "quantity": 2,
+        "price": 281537
+      }
+    ],
+    "order_status": "COMPLETED",
+    "created_at": "2025-01-09T22:42:48"
+  },
+  {
+    "order_id": "O0003",
+    "user_id": "U002",
+    "order_date": "2025-01-08T10:57:55",
+    "items": [
+      {
+        "game_id": "G006",
+        "quantity": 1,
+        "price": 202819
+      }
+    ],
+    "order_status": "COMPLETED",
+    "created_at": "2025-01-08T10:57:55"
+  },
+  {
+    "order_id": "O0004",
+    "user_id": "U018",
+    "order_date": "2025-01-02T12:32:57",
+    "items": [
+      {
+        "game_id": "G010",
+        "quantity": 1,
+        "price": 222288
+      }
+    ],
+    "order_status": "COMPLETED",
+    "created_at": "2025-01-02T12:32:57"
+  },
+  {
+    "order_id": "O0005",
+    "user_id": "U012",
+    "order_date": "2025-01-04T20:32:49",
+    "items": [
+      {
+        "game_id": "G005",
+        "quantity": 1,
+        "price": 273676
+      }
+    ],
+    "order_status": "COMPLETED",
+    "created_at": "2025-01-04T20:32:49"
+  },
+  {
+    "order_id": "O0006",
+    "user_id": "U004",
+    "order_date": "2025-01-09T00:10:43",
+    "items": [
+      {
+        "game_id": "G007",
+        "quantity": 2,
+        "price": 281537
+      }
+    ],
+    "order_status": "COMPLETED",
+    "created_at": "2025-01-09T00:10:43"
+  },
+  {
+    "order_id": "O0007",
+    "user_id": "U012",
+    "order_date": "2025-01-02T23:36:02",
+    "items": [
+      {
+        "game_id": "G003",
+        "quantity": 2,
+        "price": 157862
+      }
+    ],
+    "order_status": "COMPLETED",
+    "created_at": "2025-01-02T23:36:02"
+  },
+  {
+    "order_id": "O0008",
+    "user_id": "U011",
+    "order_date": "2025-01-01T18:36:37",
+    "items": [
+      {
+        "game_id": "G005",
+        "quantity": 2,
+        "price": 273676
+      }
+    ],
+    "order_status": "COMPLETED",
+    "created_at": "2025-01-01T18:36:37"
+  },
+  {
+    "order_id": "O0009",
+    "user_id": "U012",
+    "order_date": "2025-01-07T05:39:50",
+    "items": [
+      {
+        "game_id": "G005",
+        "quantity": 1,
+        "price": 273676
+      }
+    ],
+    "order_status": "COMPLETED",
+    "created_at": "2025-01-07T05:39:50"
+  },
+  {
+    "order_id": "O0010",
+    "user_id": "U001",
+    "order_date": "2025-01-06T22:01:55",
+    "items": [
+      {
+        "game_id": "G007",
+        "quantity": 2,
+        "price": 281537
+      }
+    ],
+    "order_status": "COMPLETED",
+    "created_at": "2025-01-06T22:01:55"
+  },
+  {
+    "order_id": "O0011",
+    "user_id": "U019",
+    "order_date": "2025-01-08T23:18:26",
+    "items": [
+      {
+        "game_id": "G005",
+        "quantity": 2,
+        "price": 273676
+      }
+    ],
+    "order_status": "COMPLETED",
+    "created_at": "2025-01-08T23:18:26"
+  },
+  {
+    "order_id": "O0012",
+    "user_id": "U017",
+    "order_date": "2025-01-06T11:06:15",
+    "items": [
+      {
+        "game_id": "G003",
+        "quantity": 2,
+        "price": 157862
+      }
+    ],
+    "order_status": "COMPLETED",
+    "created_at": "2025-01-06T11:06:15"
+  },
+  {
+    "order_id": "O0013",
+    "user_id": "U009",
+    "order_date": "2025-01-09T02:44:02",
+    "items": [
+      {
+        "game_id": "G006",
+        "quantity": 1,
+        "price": 202819
+      }
+    ],
+    "order_status": "COMPLETED",
+    "created_at": "2025-01-09T02:44:02"
+  },
+  {
+    "order_id": "O0014",
+    "user_id": "U018",
+    "order_date": "2025-01-02T10:35:11",
+    "items": [
+      {
+        "game_id": "G001",
+        "quantity": 1,
+        "price": 158781
+      }
+    ],
+    "order_status": "COMPLETED",
+    "created_at": "2025-01-02T10:35:11"
+  },
+  {
+    "order_id": "O0015",
+    "user_id": "U016",
+    "order_date": "2025-01-06T17:31:22",
+    "items": [
+      {
+        "game_id": "G010",
+        "quantity": 2,
+        "price": 222288
+      }
+    ],
+    "order_status": "COMPLETED",
+    "created_at": "2025-01-06T17:31:22"
+  },
+  {
+    "order_id": "O0016",
+    "user_id": "U005",
+    "order_date": "2025-01-05T15:34:14",
+    "items": [
+      {
+        "game_id": "G009",
+        "quantity": 2,
+        "price": 185829
+      }
+    ],
+    "order_status": "COMPLETED",
+    "created_at": "2025-01-05T15:34:14"
+  },
+  {
+    "order_id": "O0017",
+    "user_id": "U018",
+    "order_date": "2025-01-07T17:46:27",
+    "items": [
+      {
+        "game_id": "G004",
+        "quantity": 1,
+        "price": 290447
+      }
+    ],
+    "order_status": "COMPLETED",
+    "created_at": "2025-01-07T17:46:27"
+  },
+  {
+    "order_id": "O0018",
+    "user_id": "U001",
+    "order_date": "2025-01-03T18:41:57",
+    "items": [
+      {
+        "game_id": "G006",
+        "quantity": 1,
+        "price": 202819
+      }
+    ],
+    "order_status": "COMPLETED",
+    "created_at": "2025-01-03T18:41:57"
+  },
+  {
+    "order_id": "O0019",
+    "user_id": "U001",
+    "order_date": "2025-01-05T18:14:22",
+    "items": [
+      {
+        "game_id": "G001",
+        "quantity": 1,
+        "price": 158781
+      }
+    ],
+    "order_status": "COMPLETED",
+    "created_at": "2025-01-05T18:14:22"
+  },
+  {
+    "order_id": "O0020",
+    "user_id": "U002",
+    "order_date": "2025-01-08T03:41:06",
+    "items": [
+      {
+        "game_id": "G010",
+        "quantity": 1,
+        "price": 222288
+      }
+    ],
+    "order_status": "COMPLETED",
+    "created_at": "2025-01-08T03:41:06"
+  },
+  {
+    "order_id": "O0021",
+    "user_id": "U013",
+    "order_date": "2025-01-01T01:11:26",
+    "items": [
+      {
+        "game_id": "G002",
+        "quantity": 2,
+        "price": 248455
+      }
+    ],
+    "order_status": "COMPLETED",
+    "created_at": "2025-01-01T01:11:26"
+  },
+  {
+    "order_id": "O0022",
+    "user_id": "U013",
+    "order_date": "2025-01-04T15:16:20",
+    "items": [
+      {
+        "game_id": "G006",
+        "quantity": 2,
+        "price": 202819
+      }
+    ],
+    "order_status": "COMPLETED",
+    "created_at": "2025-01-04T15:16:20"
+  },
+  {
+    "order_id": "O0023",
+    "user_id": "U017",
+    "order_date": "2025-01-01T12:18:48",
+    "items": [
+      {
+        "game_id": "G007",
+        "quantity": 1,
+        "price": 281537
+      }
+    ],
+    "order_status": "COMPLETED",
+    "created_at": "2025-01-01T12:18:48"
+  },
+  {
+    "order_id": "O0024",
+    "user_id": "U004",
+    "order_date": "2025-01-09T15:55:33",
+    "items": [
+      {
+        "game_id": "G005",
+        "quantity": 2,
+        "price": 273676
+      }
+    ],
+    "order_status": "COMPLETED",
+    "created_at": "2025-01-09T15:55:33"
+  },
+  {
+    "order_id": "O0025",
+    "user_id": "U018",
+    "order_date": "2025-01-04T03:15:00",
+    "items": [
+      {
+        "game_id": "G002",
+        "quantity": 1,
+        "price": 248455
+      }
+    ],
+    "order_status": "COMPLETED",
+    "created_at": "2025-01-04T03:15:00"
+  },
+  {
+    "order_id": "O0026",
+    "user_id": "U017",
+    "order_date": "2025-01-02T12:02:00",
+    "items": [
+      {
+        "game_id": "G007",
+        "quantity": 1,
+        "price": 281537
+      }
+    ],
+    "order_status": "COMPLETED",
+    "created_at": "2025-01-02T12:02:00"
+  },
+  {
+    "order_id": "O0027",
+    "user_id": "U006",
+    "order_date": "2025-01-04T14:30:30",
+    "items": [
+      {
+        "game_id": "G004",
+        "quantity": 1,
+        "price": 290447
+      }
+    ],
+    "order_status": "COMPLETED",
+    "created_at": "2025-01-04T14:30:30"
+  },
+  {
+    "order_id": "O0028",
+    "user_id": "U012",
+    "order_date": "2025-01-09T21:13:38",
+    "items": [
+      {
+        "game_id": "G010",
+        "quantity": 2,
+        "price": 222288
+      }
+    ],
+    "order_status": "COMPLETED",
+    "created_at": "2025-01-09T21:13:38"
+  },
+  {
+    "order_id": "O0029",
+    "user_id": "U003",
+    "order_date": "2025-01-09T11:56:36",
+    "items": [
+      {
+        "game_id": "G009",
+        "quantity": 2,
+        "price": 185829
+      }
+    ],
+    "order_status": "COMPLETED",
+    "created_at": "2025-01-09T11:56:36"
+  },
+  {
+    "order_id": "O0030",
+    "user_id": "U002",
+    "order_date": "2025-01-01T08:11:14",
+    "items": [
+      {
+        "game_id": "G006",
+        "quantity": 2,
+        "price": 202819
+      }
+    ],
+    "order_status": "COMPLETED",
+    "created_at": "2025-01-01T08:11:14"
+  },
+  {
+    "order_id": "O0031",
+    "user_id": "U011",
+    "order_date": "2025-01-04T14:23:16",
+    "items": [
+      {
+        "game_id": "G004",
+        "quantity": 1,
+        "price": 290447
+      }
+    ],
+    "order_status": "COMPLETED",
+    "created_at": "2025-01-04T14:23:16"
+  },
+  {
+    "order_id": "O0032",
+    "user_id": "U007",
+    "order_date": "2025-01-08T12:20:27",
+    "items": [
+      {
+        "game_id": "G001",
+        "quantity": 2,
+        "price": 158781
+      }
+    ],
+    "order_status": "COMPLETED",
+    "created_at": "2025-01-08T12:20:27"
+  },
+  {
+    "order_id": "O0033",
+    "user_id": "U015",
+    "order_date": "2025-01-03T15:04:44",
+    "items": [
+      {
+        "game_id": "G003",
+        "quantity": 2,
+        "price": 157862
+      }
+    ],
+    "order_status": "COMPLETED",
+    "created_at": "2025-01-03T15:04:44"
+  },
+  {
+    "order_id": "O0034",
+    "user_id": "U020",
+    "order_date": "2025-01-02T17:24:04",
+    "items": [
+      {
+        "game_id": "G003",
+        "quantity": 2,
+        "price": 157862
+      }
+    ],
+    "order_status": "COMPLETED",
+    "created_at": "2025-01-02T17:24:04"
+  },
+  {
+    "order_id": "O0035",
+    "user_id": "U012",
+    "order_date": "2025-01-06T14:40:20",
+    "items": [
+      {
+        "game_id": "G001",
+        "quantity": 1,
+        "price": 158781
+      }
+    ],
+    "order_status": "COMPLETED",
+    "created_at": "2025-01-06T14:40:20"
+  },
+  {
+    "order_id": "O0036",
+    "user_id": "U005",
+    "order_date": "2025-01-01T03:35:19",
+    "items": [
+      {
+        "game_id": "G008",
+        "quantity": 1,
+        "price": 70643
+      }
+    ],
+    "order_status": "COMPLETED",
+    "created_at": "2025-01-01T03:35:19"
+  },
+  {
+    "order_id": "O0037",
+    "user_id": "U019",
+    "order_date": "2025-01-09T11:16:53",
+    "items": [
+      {
+        "game_id": "G005",
+        "quantity": 1,
+        "price": 273676
+      }
+    ],
+    "order_status": "COMPLETED",
+    "created_at": "2025-01-09T11:16:53"
+  },
+  {
+    "order_id": "O0038",
+    "user_id": "U008",
+    "order_date": "2025-01-04T01:23:19",
+    "items": [
+      {
+        "game_id": "G010",
+        "quantity": 2,
+        "price": 222288
+      }
+    ],
+    "order_status": "COMPLETED",
+    "created_at": "2025-01-04T01:23:19"
+  },
+  {
+    "order_id": "O0039",
+    "user_id": "U015",
+    "order_date": "2025-01-04T06:56:28",
+    "items": [
+      {
+        "game_id": "G008",
+        "quantity": 1,
+        "price": 70643
+      }
+    ],
+    "order_status": "COMPLETED",
+    "created_at": "2025-01-04T06:56:28"
+  },
+  {
+    "order_id": "O0040",
+    "user_id": "U014",
+    "order_date": "2025-01-02T10:51:59",
+    "items": [
+      {
+        "game_id": "G001",
+        "quantity": 2,
+        "price": 158781
+      }
+    ],
+    "order_status": "COMPLETED",
+    "created_at": "2025-01-02T10:51:59"
+  },
+  {
+    "order_id": "O0041",
+    "user_id": "U010",
+    "order_date": "2025-01-01T15:00:10",
+    "items": [
+      {
+        "game_id": "G002",
+        "quantity": 1,
+        "price": 248455
+      }
+    ],
+    "order_status": "COMPLETED",
+    "created_at": "2025-01-01T15:00:10"
+  },
+  {
+    "order_id": "O0042",
+    "user_id": "U002",
+    "order_date": "2025-01-08T14:13:24",
+    "items": [
+      {
+        "game_id": "G002",
+        "quantity": 1,
+        "price": 248455
+      }
+    ],
+    "order_status": "COMPLETED",
+    "created_at": "2025-01-08T14:13:24"
+  },
+  {
+    "order_id": "O0043",
+    "user_id": "U019",
+    "order_date": "2025-01-03T19:05:17",
+    "items": [
+      {
+        "game_id": "G004",
+        "quantity": 1,
+        "price": 290447
+      }
+    ],
+    "order_status": "COMPLETED",
+    "created_at": "2025-01-03T19:05:17"
+  },
+  {
+    "order_id": "O0044",
+    "user_id": "U004",
+    "order_date": "2025-01-03T01:15:27",
+    "items": [
+      {
+        "game_id": "G005",
+        "quantity": 2,
+        "price": 273676
+      }
+    ],
+    "order_status": "COMPLETED",
+    "created_at": "2025-01-03T01:15:27"
+  },
+  {
+    "order_id": "O0045",
+    "user_id": "U005",
+    "order_date": "2025-01-07T19:25:01",
+    "items": [
+      {
+        "game_id": "G005",
+        "quantity": 1,
+        "price": 273676
+      }
+    ],
+    "order_status": "COMPLETED",
+    "created_at": "2025-01-07T19:25:01"
+  },
+  {
+    "order_id": "O0046",
+    "user_id": "U013",
+    "order_date": "2025-01-02T18:45:38",
+    "items": [
+      {
+        "game_id": "G004",
+        "quantity": 1,
+        "price": 290447
+      }
+    ],
+    "order_status": "COMPLETED",
+    "created_at": "2025-01-02T18:45:38"
+  },
+  {
+    "order_id": "O0047",
+    "user_id": "U002",
+    "order_date": "2025-01-01T13:48:42",
+    "items": [
+      {
+        "game_id": "G004",
+        "quantity": 1,
+        "price": 290447
+      }
+    ],
+    "order_status": "COMPLETED",
+    "created_at": "2025-01-01T13:48:42"
+  },
+  {
+    "order_id": "O0048",
+    "user_id": "U010",
+    "order_date": "2025-01-01T22:16:46",
+    "items": [
+      {
+        "game_id": "G003",
+        "quantity": 2,
+        "price": 157862
+      }
+    ],
+    "order_status": "COMPLETED",
+    "created_at": "2025-01-01T22:16:46"
+  },
+  {
+    "order_id": "O0049",
+    "user_id": "U018",
+    "order_date": "2025-01-01T19:28:32",
+    "items": [
+      {
+        "game_id": "G004",
+        "quantity": 2,
+        "price": 290447
+      }
+    ],
+    "order_status": "COMPLETED",
+    "created_at": "2025-01-01T19:28:32"
+  },
+  {
+    "order_id": "O0050",
+    "user_id": "U009",
+    "order_date": "2025-01-01T18:57:23",
+    "items": [
+      {
+        "game_id": "G007",
+        "quantity": 1,
+        "price": 281537
+      }
+    ],
+    "order_status": "COMPLETED",
+    "created_at": "2025-01-01T18:57:23"
+  }
+]

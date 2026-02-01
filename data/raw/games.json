@@ -1,0 +1,92 @@
+[
+  {
+    "game_id": "G001",
+    "title": "Versatile transitional approach",
+    "genre": "RPG",
+    "developer": "Gonzalez-Cox",
+    "price": 158781,
+    "release_date": "2025-03-27",
+    "is_active": true
+  },
+  {
+    "game_id": "G002",
+    "title": "Persistent homogeneous groupware",
+    "genre": "Simulation",
+    "developer": "Mccullough Ltd",
+    "price": 248455,
+    "release_date": "2025-03-23",
+    "is_active": true
+  },
+  {
+    "game_id": "G003",
+    "title": "Cross-platform non-volatile focus group",
+    "genre": "RPG",
+    "developer": "Robinson-Jones",
+    "price": 157862,
+    "release_date": "2025-11-08",
+    "is_active": true
+  },
+  {
+    "game_id": "G004",
+    "title": "Total user-facing capacity",
+    "genre": "Adventure",
+    "developer": "Rodriguez, Klein and Miller",
+    "price": 290447,
+    "release_date": "2026-01-13",
+    "is_active": true
+  },
+  {
+    "game_id": "G005",
+    "title": "Synergistic zero administration success",
+    "genre": "Adventure",
+    "developer": "Willis Group",
+    "price": 273676,
+    "release_date": "2025-03-19",
+    "is_active": true
+  },
+  {
+    "game_id": "G006",
+    "title": "Upgradable global collaboration",
+    "genre": "Action",
+    "developer": "Bradford PLC",
+    "price": 202819,
+    "release_date": "2025-03-31",
+    "is_active": true
+  },
+  {
+    "game_id": "G007",
+    "title": "User-friendly directional definition",
+    "genre": "Simulation",
+    "developer": "Gallagher-James",
+    "price": 281537,
+    "release_date": "2025-03-17",
+    "is_active": true
+  },
+  {
+    "game_id": "G008",
+    "title": "Mandatory radical secured line",
+    "genre": "Adventure",
+    "developer": "Roberson PLC",
+    "price": 70643,
+    "release_date": "2025-04-06",
+    "is_active": true
+  },
+  {
+    "game_id": "G009",
+    "title": "Down-sized zero tolerance hub",
+    "genre": "RPG",
+    "developer": "Hill Inc",
+    "price": 185829,
+    "release_date": "2025-10-11",
+    "is_active": true
+  },
+  {
+    "game_id": "G010",
+    "title": "Object-based holistic function",
+    "genre": "RPG",
+    "developer": "Rodriguez-Zuniga",
+    "price": 222288,
+    "release_date": "2025-12-02",
+    "is_active": true
+  }
+]
